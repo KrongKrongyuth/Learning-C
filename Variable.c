@@ -18,4 +18,6 @@ int main(){
     printf("You are %d year old\n",age); // Use %d for local the place for "decimal" variable.
     printf("Your average grade is %c\n",grade); // Use %c for local the place for "character" variable.
     printf("Your gpa is %f\n",gpa); // Use %f for local the place for "floating number" variable.
+
+    return 0;
 }
