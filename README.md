@@ -8,4 +8,6 @@ I start learning C Programming on 25 Dec 2023 and will write down the summary of
 
 ***27 Dec 2023:*** Today I've learned new topics like Structs, Enums, Typedef, and how to random the numbers in C programming and I'm trying to use my knowledge to build a "Number Guessing Game" I enjoy to make it and I spend a lot of time to make it. I hope you enjoy with it. (T /// T)!
 
+***28 Dec 2023:*** I have done the course!! I am thankful! for the "Bro Code" channel that makes the C Programming course that I've learned and used to create this repository. But for now, I'm doing the "Tic Tac Toe!" project by using C so I decided to push it into a new repository called "Tic Tac Toe! Game (C Programming)" I think it might be a better choice. So I used a total of 4 days to learn all of the basic syntax and structure of C Programming I feel so good now and the next programming language I need to learn is C++, C#, and then Java. So that's it for this repository see you in the next one (^_^).
+
 ***Thanks! for reading my little diary*** 
